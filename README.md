@@ -2,10 +2,7 @@
 
 End-to-end ML project that predicts GDP growth % using country-level economic indicators. Built with XGBoost and deployed as a FastAPI service for real-time predictions.
 
-**Live Demo:** `POST /predict` → Returns `{"country": "China", "predicted_gdp_growth": 4.00}`
-
-### Screenshots
-<img width="600" alt="FastAPI Swagger UI" src="https://github.com/user-attachments/assets/your-image-id">
+**Live Demo:** `POST /predict` → Returns `{"country": "China", "predicted_gdp_growth"
 
 ### Tech Stack
 - **ML**: Python, Pandas, Scikit-learn, XGBoost
